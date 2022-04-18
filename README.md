@@ -1,0 +1,2 @@
+# EDA-on-Facebook-Dataset
+The Objective of this project is to study and analyze Usage differences, find hidden patterns and usage behavior of users on Facebook through dataset. In this project I have gone through various phases (Data Acquisition, Cleaning, Statistical analysis and Data Visualization) and plotted various graphs to Propose decisions and insights that are capable of providing a good strategy for business widening.
