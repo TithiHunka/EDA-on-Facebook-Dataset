@@ -1,4 +1,5 @@
 # EDA-on-Facebook-Dataset
+![](https://github.com/TithiHunka/EDA-on-Facebook-Dataset/blob/main/Images/download.png)
 ## 1. Introduction
 Facebook became the largest social networking site in the world. There are billions of active users, and about half of it use every day.
 Facebook generates Tb's of data everyday through numerous users as the site has many components, like Customer information,Timeline contents ,Friends ,Chat data, Status, News Feed, Reactions, Comments and many more .
@@ -16,6 +17,28 @@ This case study demonstrates that our proposed decisions and insights are capabl
 * To Study the reason of decreasing Facebook Users day by day.
 
 * To Study the reason of less logins from web.
+
+## 3. Inserting and Importing Liberaries
+
+`!pip install -q datascience`
+
+`!pip install -q pandas-profiling`
+
+`import pandas as pd` 
+
+`from pandas_profiling import ProfileReport` 
+
+`import numpy as np`                                                  
+
+`import matplotlib.pyplot as plt`     
+
+`import seaborn as sns`           
+
+`%matplotlib inline`
+
+`import scipy as sp`          
+
+## 4. Data Acquisition
 
 
 Summarization
