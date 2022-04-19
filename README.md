@@ -38,7 +38,7 @@ This case study demonstrates that our proposed decisions and insights are capabl
 
 `import scipy as sp`          
 
-## 4. Data Acquisition
+## 4. Data Acquisition & Discription
 |Id|Feature|Description|
 |:--|:--|:--|
 |01| userid                 | A numeric value uniquely identifying the user.|
@@ -56,6 +56,32 @@ This case study demonstrates that our proposed decisions and insights are capabl
 |13| mobile_likes_received  | Number of likes received by user through mobile app.|
 |14| www_likes              | Number of posts liked by the user through web.|
 |15| www_likes_received     | Number of likes received by user  through web.| 
+
+## 5. EDA
+### 5.1)plotting number of users at different tenure groups
+![image](https://user-images.githubusercontent.com/97185610/163922424-27e13e10-e526-4b2c-ba3d-b40d353037b1.png)
+### 5.2)plotting of number of days spent in facebook by different age groups
+![image](https://user-images.githubusercontent.com/97185610/163922855-b0684040-f134-43ab-ada8-88c5dc275d01.png)
+### 5.3)Number of users (Male and female ratio)
+![image](https://user-images.githubusercontent.com/97185610/163923564-ab6d96cb-7b57-4692-b407-65486e9806b1.png)
+### 5.4)Averge friends_count according to gender
+![image](https://user-images.githubusercontent.com/97185610/163923658-ba13e314-8837-4fd0-bf9b-421cc8e39ae6.png)
+### 5.5)Averge friendships_initiated according to gender
+![image](https://user-images.githubusercontent.com/97185610/163923700-71e04823-4c0e-44b7-b877-ef95cd41cf5d.png)
+### 5.6)Maximum Number of users of particular age group
+![image](https://user-images.githubusercontent.com/97185610/163923773-27643936-b8b7-4bd3-b707-186fb8d969aa.png)
+### 5.7)To analyse the friend_count in reference to age groups
+![image](https://user-images.githubusercontent.com/97185610/163923895-0db82ff3-7ad5-4e4e-a59d-421c2a6377ac.png)
+### 5.8)Which age group initiates friendship more
+![image](https://user-images.githubusercontent.com/97185610/163924057-4205a05d-bbd1-4305-b60f-caf624ed82ae.png)
+### 5.9)Most active age_group
+![image](https://user-images.githubusercontent.com/97185610/163924089-6936348f-d993-45fa-aa46-a86d2aa3c6d4.png)
+### 5.10)Mobile likes received Vs WWW likes received(Male and  Female)
+![image](https://user-images.githubusercontent.com/97185610/163924268-d2af335a-6cdd-4764-bd87-9179650f5b34.png)
+### 5.11)Mobile likes Vs WWW likes(Male and  Female)
+![image](https://user-images.githubusercontent.com/97185610/163924340-24efc236-c8aa-4a79-876f-c067e9e43ae0.png)
+
+
 
 
 Summarization
