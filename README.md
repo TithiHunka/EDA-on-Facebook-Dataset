@@ -80,9 +80,16 @@ This case study demonstrates that our proposed decisions and insights are capabl
 ![image](https://user-images.githubusercontent.com/97185610/163924268-d2af335a-6cdd-4764-bd87-9179650f5b34.png)
 ### 5.11)Mobile likes Vs WWW likes(Male and  Female)
 ![image](https://user-images.githubusercontent.com/97185610/163924340-24efc236-c8aa-4a79-876f-c067e9e43ae0.png)
-
-
-
+### 5.12) Most Active users(Males or Females)
+![image](https://user-images.githubusercontent.com/97185610/163924518-59b3f7da-0f7c-46db-8cb7-fee205b6a28a.png)
+### 5.13) Active Age group
+![image](https://user-images.githubusercontent.com/97185610/163924621-a8fbfb22-4041-44c0-b39d-96e847eb0bca.png)
+### 5.14) Top 10 users getting highest likes received
+![image](https://user-images.githubusercontent.com/97185610/163924711-a272ee3e-9340-48e8-af2e-b874963de07e.png)
+### 5.15) Top 10 users having highest Tenure
+![image](https://user-images.githubusercontent.com/97185610/163924783-f0542636-5b97-45c7-bcb1-c14c2d6af5f4.png)
+### 5.16) Top 10 users who initiated Maximum Friendships
+![image](https://user-images.githubusercontent.com/97185610/163924852-c0da0b71-038b-4d08-8947-3ad518d76421.png)
 
 Summarization
 -------------
