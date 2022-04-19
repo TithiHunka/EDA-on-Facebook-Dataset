@@ -1,5 +1,22 @@
 # EDA-on-Facebook-Dataset
-The Objective of this project is to study and analyze Usage differences, find hidden patterns and usage behavior of users on Facebook through dataset. In this project I have gone through various phases (Data Acquisition, Cleaning, Statistical analysis and Data Visualization) and plotted various graphs to Propose decisions and insights that are capable of providing a good strategy for business widening.
+## 1. Introduction
+Facebook became the largest social networking site in the world. There are billions of active users, and about half of it use every day.
+Facebook generates Tb's of data everyday through numerous users as the site has many components, like Customer information,Timeline contents ,Friends ,Chat data, Status, News Feed, Reactions, Comments and many more .
+This case study demonstrates that our proposed decisions and insights are capable of providing a good strategy for business widening using generated sample of data.
+
+## 2. Problem Statement
+* This era has been under the influence of Social Media for the past few years.
+
+* With the rise in the popularity of the Facebook application, it is very necessary to stay updated and they are trying really hard.
+
+* Every user uses application in different ways. Let's say sending friend requests, sending likes, comments etc.
+
+* This case study considers Sample Facebook data to study and analyze these differences, find hidden patterns and usage behavior of users and use this pattern for improving their application and the user experience.
+
+* To Study the reason of decreasing Facebook Users day by day.
+
+* To Study the reason of less logins from web.
+
 
 Summarization
 -------------
