@@ -89,8 +89,8 @@ This case study demonstrates that our proposed decisions and insights are capabl
 ### 5.15) Top 10 users who initiated Maximum Friendships
 ![image](https://user-images.githubusercontent.com/97185610/163924852-c0da0b71-038b-4d08-8947-3ad518d76421.png)
 
-6) Summarization
--------------
+## 6) Summarization
+
 ### 6.1)Conclusion:
 1)Maximum users tenure is less than 1 year.
 
@@ -123,7 +123,6 @@ This case study demonstrates that our proposed decisions and insights are capabl
 15)passive Users are 1.7%
 
 16)Most active people on facebook are of age <40 and then interest gradually decreases.
-
 
 ### 6.2)Actionable Insights
 * As we can see Facebook is doing Great Job.
